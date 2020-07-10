@@ -293,6 +293,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-arvr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-arvr.conf \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-camera.conf \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-cool.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-cool.conf \
+    vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-cold.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-cold.conf \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-high.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-high.conf \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-nolimits.conf \
     vendor/xiaomi/sdm845-common/proprietary/vendor/etc/thermal-engine-sdm845-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-tgame.conf \
